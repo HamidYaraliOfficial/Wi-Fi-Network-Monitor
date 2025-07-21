@@ -31,7 +31,7 @@ pip install PyQt6 psutil pyqtgraph pandas numpy scapy ping3 netifaces
 Installation
 
 Clone the repository from GitHub:
-git clone https://github.com/yourusername/wifi-network-monitor.git
+https://github.com/HamidYaraliOfficial/Wi-Fi-Network-Monitor.git
 cd wifi-network-monitor
 
 
@@ -128,7 +128,7 @@ pip install PyQt6 psutil pyqtgraph pandas numpy scapy ping3 netifaces
 نصب
 
 مخزن را از GitHub کلون کنید:
-git clone https://github.com/yourusername/wifi-network-monitor.git
+https://github.com/HamidYaraliOfficial/Wi-Fi-Network-Monitor.git
 cd wifi-network-monitor
 
 
@@ -226,7 +226,7 @@ pip install PyQt6 psutil pyqtgraph pandas numpy scapy ping3 netifaces
 安装
 
 从 GitHub 克隆仓库：
-git clone https://github.com/yourusername/wifi-network-monitor.git
+https://github.com/HamidYaraliOfficial/Wi-Fi-Network-Monitor.git
 cd wifi-network-monitor
 
 
